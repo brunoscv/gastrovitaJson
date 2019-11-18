@@ -2,18 +2,10 @@
   "posts": [
     {
       "id": 1,
-      "name": "Andrew",
-      "location": "Brazil"
-    },
-    {
-      "id": 2,
-      "name": "Luiz",
-      "location": "Brazil"
-    },
-    {
-      "id": 3,
-      "name": "Marcos",
-      "location": "Brazil"
-    },
-  ]
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
