@@ -1,22 +1,19 @@
-[
-  {
-    "id": 1,
-    "name": "Andrew",
-    "location": "Brazil"
-  },
-  {
-    "id": 2,
-    "name": "Julio",
-    "location": "Canadá"
-  },
-  {
-    "id": 3,
-    "name": "Lilian",
-    "location": "São Paulo - Brazil"
-  },
-  {
-    "id": 4,
-    "name": "João",
-    "location": "Teresina - Brazil"
-  }
-]
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Andrew",
+      "location": "Brazil"
+    },
+    {
+      "id": 2,
+      "name": "Luiz",
+      "location": "Brazil"
+    },
+    {
+      "id": 3,
+      "name": "Marcos",
+      "location": "Brazil"
+    },
+  ]
+}
