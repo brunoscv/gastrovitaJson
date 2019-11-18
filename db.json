@@ -1,11 +1,11 @@
 {
-  "posts": [
+  "tickets": [
     {
       "id": 1,
-      "title": "hello"
+      "paciente": "ANNA RENATTA OLIVEIRA VIEIRA",
+      "paciente_img": "161139201911085dc5bdeb2b46a.png",
+      "medico": "CARLOS DIMAS DE CARVALHO SOUSA",
+      "guiche": "Guiche 03"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
